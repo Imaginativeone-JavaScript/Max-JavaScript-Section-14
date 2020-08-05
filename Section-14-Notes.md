@@ -1,0 +1,22 @@
+- [ ] 14 01:34:44 | Working with Events  
+	- [ ] 304 01 Module Introduction | 01:31  
+	- [ ] 305 02 Introduction to Events in JavaScript | 06:18  
+	- [ ] 306 03 Different Ways of Listening to Events | 06:59  
+	- [ ] 307 04 Removing Event Listeners | 05:14  
+	- [ ] 308 05 The "event" Object | 05:43  
+	- [ ] 309 06 Supported Event Types | 08:00  
+	- [ ] 310 07 Example: Basic Infinite Scrolling | 01:02  
+	- [ ] 311 08 Working with "preventDefault()" | 05:15  
+	- [ ] 312 09 Understanding "Capturing" & "Bubbling" Phases | 02:03  
+	- [ ] 313 10 Event Propagation & "stopPropagation()" | 07:39  
+	- [ ] 314 11 Using Event Delegation | 08:33  
+	- [ ] 315 12 Triggering DOM Elements Programmatically | 03:40  
+	- [ ] 316 13 Event Handler Functions & "this" | 02:28  
+	- [ ] *** ** Events 4 questions  
+	- [ ] 317 14 Drag & Drop - Theory | 04:59  
+	- [ ] 318 15 Configuring Draggable Elements | 06:23  
+	- [ ] 319 16 Marking the "Drop Area" | 08:52  
+	- [ ] 320 17 Dropping & Moving Data + Elements | 06:58  
+	- [ ] 321 18 Firefox Adjustments | 01:40  
+	- [ ] 322 19 Wrap Up | 01:15  
+	- [ ] 323 20 Useful Resources & Links | 00:11
