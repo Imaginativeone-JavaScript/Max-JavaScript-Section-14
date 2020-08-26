@@ -1,7 +1,15 @@
 - [ ] 14 01:34:44 | Working with Events  
 	- [ ] 304 01 Module Introduction | 01:31  
-	- [ ] 305 02 Introduction to Events in JavaScript | 06:18  
-	- [ ] 306 03 Different Ways of Listening to Events | 06:59  
+	- [ ] 305 02 Introduction to Events in JavaScript | 06:18
+	  - Run code upon certain events
+	  - Incoming requests, scheduled tasks...
+	  - Browser-side Events
+	    - addEventListener()
+	  - Server-side Events
+	    - NodeJS: on()
+	  - Events typically transport data
+	  - MDN Event
+	- [ ] 306 03 Different Ways of Listening to Events | 06:59
 	- [ ] 307 04 Removing Event Listeners | 05:14  
 	- [ ] 308 05 The "event" Object | 05:43  
 	- [ ] 309 06 Supported Event Types | 08:00  
